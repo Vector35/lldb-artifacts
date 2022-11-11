@@ -1,2 +1,2 @@
-# llvm-artifacts
-The build artifacts of the llvm-build
+# lldb-artifacts
+The Vector35 LLDB build artifacts
